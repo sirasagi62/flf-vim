@@ -89,4 +89,4 @@ function! FlfInFloatingTerminal()
   endif
 endfunction
 
-command! -nargs=1 Flf call FlfInFloatingTerminal()
+command! Flf call FlfInFloatingTerminal()
