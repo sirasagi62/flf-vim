@@ -65,6 +65,15 @@ Executes a vector search only within the content of the currently open buffer.
 
 -----
 
+### 🖥 Screenshots
+<dir align="center">
+<img src="./assets/flfdir.gif" />
+<img src="./assets/flfbuf.gif" />
+</dir>
+
+
+-----
+
 ### 📜 License
 
 This project is licensed under the **MIT License**.
