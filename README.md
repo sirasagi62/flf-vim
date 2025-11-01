@@ -4,7 +4,8 @@
 
 It enables developers to efficiently locate highly relevant code snippets within their projects based on vague keywords or conceptual queries.
 
-You need install [flf](https://github.com/sirasagi62/flf).
+> [!INFO]
+> You need install [flf](https://github.com/sirasagi62/flf).
 
 -----
 
@@ -55,7 +56,8 @@ Executes a vector search across the entire root directory of your project and di
 <img src="./assets/flfdir.gif" />
 </dir>
 
-> 💡 **Use Case:** Best for finding **where a specific feature or concept is implemented** across the entire project.
+> [!TIPS]
+> **Use Case:** Best for finding **where a specific feature or concept is implemented** across the entire project.
 
 #### **2. Search the Current Buffer: `:FlfBuf`**
 
@@ -69,7 +71,8 @@ Executes a vector search only within the content of the currently open buffer.
 <img src="./assets/flfbuf.gif" />
 </dir>
 
-> 💡 **Use Case:** Useful for examining **the context in which a specific variable or helper function is used** within the file you are currently editing.
+> [!TIPS]
+> **Use Case:** Useful for examining **the context in which a specific variable or helper function is used** within the file you are currently editing.
 
 -----
 
