@@ -4,6 +4,8 @@
 
 It enables developers to efficiently locate highly relevant code snippets within their projects based on vague keywords or conceptual queries.
 
+You need install [flf](https://github.com/sirasagi62/flf).
+
 -----
 
 ### 🚀 Prerequisites
