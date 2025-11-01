@@ -67,7 +67,9 @@ Executes a vector search only within the content of the currently open buffer.
 
 ### 🖥 Screenshots
 <dir align="center">
+<h4>`:FlfDir`</h4>
 <img src="./assets/flfdir.gif" />
+<h4>`:FlfBuf`</h4>
 <img src="./assets/flfbuf.gif" />
 </dir>
 
