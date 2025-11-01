@@ -51,6 +51,10 @@ Executes a vector search across the entire root directory of your project and di
 :FlfDir
 ```
 
+<dir align="center">
+<img src="./assets/flfdir.gif" />
+</dir>
+
 > 💡 **Use Case:** Best for finding **where a specific feature or concept is implemented** across the entire project.
 
 #### **2. Search the Current Buffer: `:FlfBuf`**
@@ -61,18 +65,11 @@ Executes a vector search only within the content of the currently open buffer.
 :FlfBuf
 ```
 
-> 💡 **Use Case:** Useful for examining **the context in which a specific variable or helper function is used** within the file you are currently editing.
-
------
-
-### 🖥 Screenshots
 <dir align="center">
-<h4>`:FlfDir`</h4>
-<img src="./assets/flfdir.gif" />
-<h4>`:FlfBuf`</h4>
 <img src="./assets/flfbuf.gif" />
 </dir>
 
+> 💡 **Use Case:** Useful for examining **the context in which a specific variable or helper function is used** within the file you are currently editing.
 
 -----
 
