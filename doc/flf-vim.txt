@@ -1,4 +1,4 @@
-*flf-vim*
+*flf-vim.txt*
 
 `flf-vim` is a Vim/Neovim plugin that integrates the Fluent Finder (flf) command
 to provide a Fuzzy Finder-like UI for vector search of code using an embedding
@@ -9,7 +9,7 @@ their projects based on vague keywords or conceptual queries.
 
   ╶────────────────────────────────────────────────────────────────────────────╴ 
 
-Prerequisites ~
+Prerequisites                                            *flf-vim-prerequisites*
 
 To use this plugin, the following environment and packages are required, in
 addition to Vim/Neovim:
@@ -32,7 +32,7 @@ Install `flf` using the following command:
 
   ╶────────────────────────────────────────────────────────────────────────────╴ 
 
-Installation ~
+Installation ~                                                *flf-installation*
 
 Please use your preferred Vim plugin manager for installation.
 
@@ -51,7 +51,7 @@ Usage ~
 `flf-vim` provides commands corresponding to the two main search modes of the
 `flf` tool.
 
-1. Search the Entire Project: * ~
+1. Search the Entire Project:                                       *flf-flf-dir*
 
 Executes a vector search across the entire root directory of your project and displays the results in a Fuzzy Finder-style window.
 
@@ -61,7 +61,7 @@ Executes a vector search across the entire root directory of your project and di
 
 ▋ 💡 Use Case: Best for finding where a specific feature or concept is implemented across the entire project.
 
-2. Search the Current Buffer: * ~
+2. Search the Current Buffer:                                       *flf-flf-buf*
 
 Executes a vector search only within the content of the currently open buffer.
 
