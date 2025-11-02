@@ -1,5 +1,9 @@
 # 🔍 flf-vim
 
+> [!NOTE]
+> This project is in the early stages of development, and its performance and behavior may change.
+
+
 `flf-vim` is a Vim/Neovim plugin that integrates the **Fluent Finder (flf)** command to provide a **Fuzzy Finder-like UI** for **vector search** of code using an **embedding model**.
 
 It enables developers to efficiently locate highly relevant code snippets within their projects based on vague keywords or conceptual queries.
