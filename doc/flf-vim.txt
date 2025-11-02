@@ -1,5 +1,4 @@
-================================================================================
-flf-vim
+*flf-vim*
 
 `flf-vim` is a Vim/Neovim plugin that integrates the Fluent Finder (flf) command
 to provide a Fuzzy Finder-like UI for vector search of code using an embedding
